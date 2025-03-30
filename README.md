@@ -20,7 +20,7 @@
 2. **Untuk menambah data tambahkan code** sebagai berikut dengan menggunakan Url di point 1:
    ```sh
    {"nama": "ex name",
-    "usia": ex age,
+    "usia": "ex age",
     "alamat": "ex addres"} 
 3. **Lakukan edit, hapus, dan lihat berdasarkan ID** dengan URL berikut:
    ```sh
